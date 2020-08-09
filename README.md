@@ -66,3 +66,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## For Developer use only
+
+Shopping Summary by React Redux
+Live: http://ez-shopping-summary.surge.sh/
+github: https://github.com/alikamal2381/shopping-summary.git
